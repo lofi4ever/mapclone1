@@ -1,0 +1,12 @@
+g[data-pointer-country]:hover {
+		cursor: pointer;
+}
+.tooltipster-base {
+  position: absolute;
+  z-index: 3000;
+  border: 1px solid #111;
+  background-color: #eee;
+  padding: 5px;
+  opacity: 0.85;
+  z-index: 1000;
+}

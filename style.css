@@ -1,0 +1,6 @@
+svg g.active {
+    fill: #0079C1;
+    stroke: #CDE2F0;
+    stroke-width: 1;
+    cursor: pointer;
+}
